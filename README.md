@@ -1,4 +1,4 @@
-# Object-Relational-Mapping
+# Object-Relational Mapping
 Object-Relational Mapping ve ORM Araçları
 -----------------------------------------
 
