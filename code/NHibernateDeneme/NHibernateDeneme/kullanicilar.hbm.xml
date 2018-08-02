@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" assembly="NHibernateDeneme" namespace="NHibernateDeneme">
+  <class name="kullanicilar">
+    <id name="Id" column ="id">
+      <generator class="increment"/>
+    </id>
+    <property name="Name" column="name"/>
+  </class>
+</hibernate-mapping>

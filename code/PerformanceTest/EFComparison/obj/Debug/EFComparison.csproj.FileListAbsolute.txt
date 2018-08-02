@@ -1,0 +1,11 @@
+C:\Users\Ataberk\source\repos\EFComparison\bin\Debug\EFComparison.exe.config
+C:\Users\Ataberk\source\repos\EFComparison\bin\Debug\EFComparison.exe
+C:\Users\Ataberk\source\repos\EFComparison\bin\Debug\EFComparison.pdb
+C:\Users\Ataberk\source\repos\EFComparison\bin\Debug\EntityFramework.dll
+C:\Users\Ataberk\source\repos\EFComparison\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ataberk\source\repos\EFComparison\bin\Debug\EntityFramework.xml
+C:\Users\Ataberk\source\repos\EFComparison\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ataberk\source\repos\EFComparison\obj\Debug\EFComparison.csprojResolveAssemblyReference.cache
+C:\Users\Ataberk\source\repos\EFComparison\obj\Debug\EFComparison.csproj.CoreCompileInputs.cache
+C:\Users\Ataberk\source\repos\EFComparison\obj\Debug\EFComparison.exe
+C:\Users\Ataberk\source\repos\EFComparison\obj\Debug\EFComparison.pdb

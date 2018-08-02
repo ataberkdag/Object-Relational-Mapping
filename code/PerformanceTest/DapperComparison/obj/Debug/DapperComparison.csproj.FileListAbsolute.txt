@@ -1,0 +1,9 @@
+C:\Users\Ataberk\source\repos\DapperComparison\bin\Debug\DapperComparison.exe.config
+C:\Users\Ataberk\source\repos\DapperComparison\bin\Debug\DapperComparison.exe
+C:\Users\Ataberk\source\repos\DapperComparison\bin\Debug\DapperComparison.pdb
+C:\Users\Ataberk\source\repos\DapperComparison\bin\Debug\Dapper.dll
+C:\Users\Ataberk\source\repos\DapperComparison\bin\Debug\Dapper.xml
+C:\Users\Ataberk\source\repos\DapperComparison\obj\Debug\DapperComparison.csprojResolveAssemblyReference.cache
+C:\Users\Ataberk\source\repos\DapperComparison\obj\Debug\DapperComparison.csproj.CoreCompileInputs.cache
+C:\Users\Ataberk\source\repos\DapperComparison\obj\Debug\DapperComparison.exe
+C:\Users\Ataberk\source\repos\DapperComparison\obj\Debug\DapperComparison.pdb

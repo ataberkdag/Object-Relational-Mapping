@@ -1,0 +1,7 @@
+c:\users\ataberk\source\repos\ADONetComparison\bin\Debug\ADONetComparison.exe.config
+c:\users\ataberk\source\repos\ADONetComparison\bin\Debug\ADONetComparison.exe
+c:\users\ataberk\source\repos\ADONetComparison\bin\Debug\ADONetComparison.pdb
+c:\users\ataberk\source\repos\ADONetComparison\obj\Debug\ADONetComparison.csprojResolveAssemblyReference.cache
+c:\users\ataberk\source\repos\ADONetComparison\obj\Debug\ADONetComparison.csproj.CoreCompileInputs.cache
+c:\users\ataberk\source\repos\ADONetComparison\obj\Debug\ADONetComparison.exe
+c:\users\ataberk\source\repos\ADONetComparison\obj\Debug\ADONetComparison.pdb
