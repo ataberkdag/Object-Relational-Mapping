@@ -8,4 +8,7 @@ Kütüphaneyi, Python Paket Yönetisi (pip) Üzerinden:
   
   Kullanımı
   ---------
-  Veritabanını oluşturmak için öncelikle "declaration.py" isimli dosyayı çalıştırmanız gereklidir.
+  
+  - Veritabanını oluşturmak için öncelikle "declaration.py" isimli dosyayı çalıştırmanız gereklidir.
+  
+  - Diğer dosyalar, oluşturulan veritabanı üzerinden çalışacaktır.
