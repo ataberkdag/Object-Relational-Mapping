@@ -1,7 +1,3 @@
-Code
------------------------------------------
-İçerisinde ORM örnekleri ve performans testleri yapılması için hazır kodlar bulunan klasördür.
-
 NHibernateDeneme
 -----------------------------------------
 "NHibernate" ve "Dapper ORM" araçlarının örneklerini içerir. Veritabanı Yönetim Sistemi olarak "PostgreSQL" kullanılmıştır.Uygulamanın çalışması için "Connection String" ve "Tablo" gereklidir.
