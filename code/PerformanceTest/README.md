@@ -26,18 +26,18 @@ Veritabanı:
 
 ![ScreenShot](https://github.com/ataberkdag/Object-Relational-Mapping/blob/master/code/PerformanceTest/Screenshots/Database.png)
 
-NHibernate Performans Testi Sonuçları:
+NHibernate 'SELECT' İşlemi Performans Testi Sonuçları:
 
 ![ScreenShot](https://github.com/ataberkdag/Object-Relational-Mapping/blob/master/code/PerformanceTest/Screenshots/NHibernate-Performance.png)
 
-Entity Framework Performans Testi Sonuçları:
+Entity Framework 'SELECT' İşlemi Performans Testi Sonuçları:
 
 ![ScreenShot](https://github.com/ataberkdag/Object-Relational-Mapping/blob/master/code/PerformanceTest/Screenshots/EF-Performance.png)
 
-Dapper Performans Testi Sonuçları:
+Dapper 'SELECT' İşlemi Performans Testi Sonuçları:
 
 ![ScreenShot](https://github.com/ataberkdag/Object-Relational-Mapping/blob/master/code/PerformanceTest/Screenshots/Dapper-Performance.png)
 
-ADO.NET Performans Testi Sonuçları:
+ADO.NET 'SELECT' İşlemi Performans Testi Sonuçları:
 
 ![ScreenShot](https://github.com/ataberkdag/Object-Relational-Mapping/blob/master/code/PerformanceTest/Screenshots/ADO-Performance.png)
